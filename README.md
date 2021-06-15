@@ -7,7 +7,7 @@ I also have weekly leetcode and hackerrank challenges repo [CodeChallenges](http
 - 🌱 I’m also mastering react-native then I'll move on to flutter.
 - 👯 I’m looking to collaborate on anything.
 - ⚡ Fun fact: I love anime and music of all genre.
-- 📫 How to reach me: [gmail](achanamosey@gmail.com) | [Twitter](https://twitter.com/codesaitama) | [Linkedin](https://www.linkedin.com/in/emmanuel-achana-75bb64116/)
+- 📫 How to reach me: [Twitter](https://twitter.com/codesaitama) | [Linkedin](https://www.linkedin.com/in/emmanuel-achana-75bb64116/)
 
 <!--
 **codesaitama/codesaitama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
