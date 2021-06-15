@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Believe it or not I code almost everyday. I've been enhancing my coding chakra. I have been building all types of applications using different technologies for fun.
+I also have weekly leetcode and hackerrank challenges repo [CodeChallenges](https://github.com/codesaitama/HackerRank).
+
+- 🔭 I’m currently working on well a lot.
+- 🌱 I’m currently mastering react-native
+- 👯 I’m looking to collaborate on anything
+- ⚡ Fun fact: I love anime and music of all genre.
+- 📫 How to reach me: [Twitter](https://twitter.com/codesaitama) | [Linkedin](https://www.linkedin.com/in/emmanuel-achana-75bb64116/)
+
 <!--
 **codesaitama/codesaitama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
