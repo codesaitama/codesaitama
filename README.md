@@ -3,9 +3,8 @@
 Believe it or not I code almost everyday. Made it a priority to enhance my coding chakra to the sage of six paths' level. I have been building all types of applications using different technologies for fun.
 I also have a very active leetcode and hackerrank challenges repo [CodeChallenges](https://github.com/codesaitama/CodeChallenge).
 
-- 🔭 I’m currently working on well a lot.
+- 🔭 I’m currently working on everything.
 - 🌱 I’m also mastering react-native then I'll move on to flutter.
-- 👯 I’m looking to collaborate on anything.
 - ⚡ Fun fact: I love anime and music of all genre.
 - 📫 How to reach me: [Twitter](https://twitter.com/codesaitama) | [Linkedin](https://www.linkedin.com/in/emmanuel-achana-75bb64116/)
 
