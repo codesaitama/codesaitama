@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,5 +51,7 @@ Here are some ideas to get you started:
 <img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
 </a>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" />
 <br/>
+<a>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" />
+</a>
