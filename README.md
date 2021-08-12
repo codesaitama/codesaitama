@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 </a>
 
 <a>
-<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" />
 </a>
 
 <br/>
 <a>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" />
+<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
 </a>
