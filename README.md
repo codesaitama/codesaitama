@@ -45,11 +45,10 @@ Here are some ideas to get you started:
 <br/>
 
 <a>
-<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
-</a>
-
-<a>
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=codesaitama&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+</a>
+<a>
+<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
 </a>
 
 <br/>
