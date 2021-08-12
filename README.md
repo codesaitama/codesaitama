@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
-<br/>
 
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=codesaitama&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 
