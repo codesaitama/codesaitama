@@ -43,15 +43,16 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
+
+<a>
+<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
+</a>
+
 <a>
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=codesaitama&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 </a>
 
-<a>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" />
-</a>
-
 <br/>
 <a>
-<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaitama&hide_title=false&layout=compact&theme=dracula&count_private=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" />
 </a>
