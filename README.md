@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
-
+<!---
 <a>
 <img align="left" style="width: 45%" height='200px' src="https://github-readme-stats.vercel.app/api?username=codesaitama&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 </a>
@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 <a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesaitama&theme=dracula" style="100%" />
 </a>
+
+-->
