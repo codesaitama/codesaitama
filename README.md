@@ -4,7 +4,7 @@ Believe it or not I code almost everyday. Made it a priority to enhance my codin
 I also have a very active leetcode and hackerrank challenges repo [CodeChallenges](https://github.com/codesaitama/CodeChallenge).
 
 - 🔭 I’m currently working on everything.
-- 🌱 I’m also mastering react-native then I'll move on to flutter.
+- 🌱 Mastered react-native. Looking for something new to learn.
 - ⚡ Fun fact: I love anime and music of all genre.
 - 📫 How to reach me: [Twitter](https://twitter.com/j4robot) | [Linkedin](https://www.linkedin.com/in/emmanuel-achana-75bb64116/)
 
